@@ -85,8 +85,8 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "18+": {
+    "richangxiaozhan": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "18+"
+      "name": "日常小站"
   }
 }
