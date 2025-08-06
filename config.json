@@ -84,6 +84,38 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "baiwan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "kuaibo": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源"
+    },
+    "senlin": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "sese": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "色彩资源"
+    },
+    "taohua": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "桃花资源"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "玉兔资源"
+    },
+    "naixiang": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "奶香香资源"
+    },
+    "jingping": {
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "name": "精品资源"
     }
   }
 }
