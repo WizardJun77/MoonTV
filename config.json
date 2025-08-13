@@ -116,6 +116,22 @@
     "jingping": {
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "name": "精品资源"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+      "name": "草榴资源"
+    },
+    "lajiao": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒资源"
+    },
+    "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼资源"
+    },
+    "huang": {
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "name": "黄AV资源"
     }
   }
 }
